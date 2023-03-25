@@ -1,0 +1,34 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/ClimbSubsystem/BottomSwitch": "Digital Input",
+      "/LiveWindow/ClimbSubsystem/Spark": "Motor Controller",
+      "/LiveWindow/ClimbSubsystem/TopSwitch": "Digital Input",
+      "/LiveWindow/DrivetrainSubsystem": "Subsystem",
+      "/LiveWindow/DrivetrainSubsystem/DifferentialDrive": "DifferentialDrive",
+      "/LiveWindow/IntakeSubystem": "Subsystem",
+      "/LiveWindow/ShooterSubsystem/advanceMotor": "Motor Controller",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/LiveWindow/Ungrouped/navX-Sensor[4]": "Gyro",
+      "/SmartDashboard/AimBallCommand": "Command",
+      "/SmartDashboard/Auto Mode": "String Chooser",
+      "/SmartDashboard/ClimbButton": "Command",
+      "/SmartDashboard/ClimbButtonJB": "Command",
+      "/SmartDashboard/DirectionButton": "Command",
+      "/SmartDashboard/IntakeButton": "Command",
+      "/SmartDashboard/IntakeButtonJB": "Command",
+      "/SmartDashboard/OverBumperCommand": "Command",
+      "/SmartDashboard/OverBumperJB": "Command",
+      "/SmartDashboard/ReverseClimbButton": "Command",
+      "/SmartDashboard/ReverseClimbButtonJB": "Command",
+      "/SmartDashboard/RotateCommand": "Command",
+      "/SmartDashboard/ShootButton": "Command",
+      "/SmartDashboard/ShootButtonJB": "Command",
+      "/SmartDashboard/ShootLowButton": "Command",
+      "/SmartDashboard/ShootLowButtonJB": "Command",
+      "/SmartDashboard/SpitBallButton": "Command",
+      "/SmartDashboard/SpitBallButtonJB": "Command"
+    }
+  }
+}
